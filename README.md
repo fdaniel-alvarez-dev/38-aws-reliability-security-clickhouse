@@ -1,4 +1,4 @@
-# portfolio-lakehouse-guardrails-blueprint-38
+# 38-caredx-devops
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
