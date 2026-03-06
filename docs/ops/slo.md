@@ -5,9 +5,9 @@ This document turns reliability goals into measurable targets.
 ## Service context
 - What are we protecting? A customer-visible API / data pipeline / database.
 - Top pains this repo targets:
-  1) Replacing manual, risky changes with automated delivery—repeatable infrastructure, safe deployments, and drift-free environments (IaC + CI/CD + GitOps).
-  2) Designing a resilient, scalable cloud platform foundation—Kubernetes/container orchestration, networking, and standard patterns teams can reuse.
-  3) Building a data platform people trust—reliable pipelines, clear ownership, data quality checks, and governance that scales without slowing delivery.
+  1) Keeping analytical databases dependable: safe schemas, predictable ingest, and fast failure detection.
+  2) Reducing operational risk: repeatable drills and guardrails instead of “run it and hope”.
+  3) Enforcing security and governance without blocking delivery: explicit validation modes and clean documentation.
 
 ## Suggested SLIs (examples)
 - Availability: successful requests / total requests
